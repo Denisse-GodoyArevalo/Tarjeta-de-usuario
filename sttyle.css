@@ -1,0 +1,17 @@
+
+.encabezado{
+    background-color: rgb(93, 170, 200);
+    position: relative;
+    height: 60px;
+    width: auto;
+    border: 2px solid #b9b7b7;
+}
+.logo{
+    width: 15px;
+    height: 20px;
+}
+.cuerpo{ 
+    position:absolute;
+    margin: 5px;
+    border: 2px solid #b9b7b7;
+}
